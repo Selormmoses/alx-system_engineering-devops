@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -iA 3 "rrot" /etc/passwd
+grep -A 3 "rrot" /etc/passwd
